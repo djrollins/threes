@@ -1,0 +1,9 @@
+[package]
+name = "threes"
+version = "0.1.0"
+authors = ["Daniel J. Rollins <daniel@djrollins.com>"]
+edition = "2018"
+description = "Core library that implements the base mechanics of the game threes"
+
+[dependencies]
+rand = "^0.6.5"
